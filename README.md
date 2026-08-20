@@ -40,7 +40,7 @@ My goal is to become a backend developer and eventually build products and busin
 
 # `</>`Let's Connect
 
-<p align="center"> <a href="mailto:luiscarlossantossilvajunior@gmail.com"> <img src="https://skillicons.dev/icons?i=gmail" width="42" alt="Email"/> </a> &nbsp;&nbsp;&nbsp; <a href="https://instagram.com/luis_juniorn"> <img src="https://skillicons.dev/icons?i=instagram" width="42" alt="Instagram"/> </a> &nbsp;&nbsp;&nbsp; <a href="https://wa.me/5538992577724"> <img src="https://skillicons.dev/icons?i=whatsapp" width="42" alt="WhatsApp"/> </a> </p>
+<p align="center"> <a href="mailto:luiscarlossantossilvajunior@gmail.com"> <img src="https://cdn.simpleicons.org/gmail/EA4335" width="40" height="40" alt="Email"/> </a> &nbsp;&nbsp;&nbsp; <a href="https://instagram.com/luis_juniorn"> <img src="https://cdn.simpleicons.org/instagram/E4405F" width="40" height="40" alt="Instagram"/> </a> &nbsp;&nbsp;&nbsp; <a href="https://wa.me/5538992577724"> <img src="https://cdn.simpleicons.org/whatsapp/25D366" width="40" height="40" alt="WhatsApp"/> </a> </p>
 
 <p align="center">
   <b>Brazil &nbsp; • &nbsp; Open to collaborations &nbsp; • &nbsp; Always building</b>
