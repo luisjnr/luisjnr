@@ -21,7 +21,7 @@ Outside of programming, I'm an outgoing person who enjoys games, anime and learn
 <h2>Currently Learning</h2>
 
 <p>
-  <img src="https://img.shields.io/badge/Java-0D1117?style=for-the-badge&logo=openjdk&logoColor=58A6FF" alt="Java">
+  <img width="512" height="512" alt="image" src="https://github.com/user-attachments/assets/7d6a9560-d0c1-4086-a2e4-8f05d5b0c106" />
   <img src="https://img.shields.io/badge/MySQL-0D1117?style=for-the-badge&logo=mysql&logoColor=58A6FF" alt="MySQL">
 </p>
 
