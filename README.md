@@ -13,7 +13,7 @@ I'm still exploring where technology can take me, but my long-term goal is to bu
 # `</>` Technologies
 
 <p align="left">
-  <img src="https://skillicons.dev/icons?i=c,html,css,java,mysql" />
+  <img src="https://skillicons.dev/icons?i=c,html,css,java,mysql&theme=dark" />
 </p>
 
 **Current focus:** Java • MySQL • Backend Development
