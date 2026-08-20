@@ -22,7 +22,7 @@ I'm still exploring where technology can take me, but my long-term goal is to bu
 
 # `</>` Projects
 
-## 🏨 Hotel Brilhante
+## Hotel Brilhante
 
 Website and reservation system developed for a real hotel.
 
@@ -55,7 +55,7 @@ I'm always open to new opportunities, collaborations, and interesting projects.
 </p>
 
 <p align="center">
-  <b>📍 Brazil &nbsp; • &nbsp; 💻 Open to collaborations &nbsp; • &nbsp; 🚀 Always building</b>
+  <b>Brazil &nbsp; • &nbsp; Open to collaborations &nbsp; • &nbsp; Always building</b>
 </p>
 
 <img src="./luffy.gif" width="120" alt="Luffy" align="right">
