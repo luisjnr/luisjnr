@@ -19,3 +19,13 @@ I'm still exploring where technology can take me, but my long-term goal is to bu
 </p>
 
 **Current focus:** Java • MySQL • Backend Development
+
+## `</>` Projects
+
+### 🏨 Hotel Brilhante
+
+Website and reservation system developed for a real hotel.
+
+**Technologies:** HTML • CSS • JavaScript
+
+[View project](https://hotelbrilhante.com.br/)
