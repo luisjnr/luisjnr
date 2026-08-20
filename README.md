@@ -1,6 +1,6 @@
 <img src="./luffy.gif" width="150" align="right">
 
-<p fontsize="30">
+<p>
   <strong><font size="3">Luis Junior</font></strong>
 </p>
 
