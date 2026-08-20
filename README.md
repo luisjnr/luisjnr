@@ -30,12 +30,15 @@ Website and reservation system developed for a real hotel.
 
 [View project](https://hotelbrilhante.com.br/)
 
-## 📊 GitHub Stats
+## `</>` Beyond Code
 
-<div align="left">
+<p>
+  Outside of programming, I enjoy anime, games and exploring new ideas.
+</p>
 
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=luisjnr&show_icons=true&theme=dark&hide_border=true&include_all_commits=true&count_private=true"/>
-
+<p align="right">
+  <img src="./luffy.gif" width="120" alt="Luffy">
+</p>
 <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=luisjnr&layout=compact&theme=dark&hide_border=true"/>
 
 </div>
