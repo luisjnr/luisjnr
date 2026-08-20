@@ -13,13 +13,9 @@ I'm still exploring where technology can take me, but my long-term goal is to bu
 # `</>` Technologies
 
 <p align="left">
-  <img src="https://skillicons.dev/icons?i=c,html,css" height="45" alt="C, HTML5 and CSS3">
-
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/java/java-original.svg"
-       height="45" alt="Java">
-
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/mysql/mysql-original.svg"
-       height="45" alt="MySQL">
+  <img src="https://skillicons.dev/icons?i=c,html,css" height="45" alt="C HTML CSS">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/java/java-original.svg" height="45" alt="Java">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/mysql/mysql-original.svg" height="45" alt="MySQL">
 </p>
 
 **Current focus:** Java • MySQL • Backend Development
