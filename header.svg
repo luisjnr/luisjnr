@@ -1,0 +1,27 @@
+<svg width="1200" height="300" viewBox="0 0 1200 300" xmlns="http://www.w3.org/2000/svg">
+  <rect width="1200" height="300" rx="18" fill="#0D1117"></rect>
+
+  <circle cx="1060" cy="80" r="3" fill="#58A6FF"></circle>
+  <circle cx="1100" cy="125" r="2" fill="#58A6FF"></circle>
+  <circle cx="1030" cy="170" r="2" fill="#58A6FF"></circle>
+
+  <rect x="70" y="70" width="5" height="155" rx="2.5" fill="#58A6FF"></rect>
+
+  <text x="105" y="125" font-family="Arial, Helvetica, sans-serif" font-size="58" font-weight="700" fill="#F0F6FC">
+    Luis Junior
+  </text>
+
+  <text x="108" y="165" font-family="Arial, Helvetica, sans-serif" font-size="24" font-weight="600" fill="#58A6FF">
+    Information Systems Student
+  </text>
+
+  <text x="108" y="200" font-family="Arial, Helvetica, sans-serif" font-size="24" font-weight="600" fill="#58A6FF">
+    Backend Development
+  </text>
+
+  <text x="108" y="238" font-family="Arial, Helvetica, sans-serif" font-size="17" fill="#8B949E">
+    Learning Java &amp; MySQL • Building software to solve real problems
+  </text>
+
+  <line x1="105" y1="258" x2="1095" y2="258" stroke="#21262D" stroke-width="1"></line>
+</svg>
