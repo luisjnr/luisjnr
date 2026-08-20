@@ -1,12 +1,28 @@
-<img src="./luffy.gif" width="150" align="right">
+<div style="position: relative; margin-bottom: 30px;">
 
-## Luis Junior
+<img src="./luffy.gif"
+     alt="Luffy"
+     width="150"
+     style="display: block; margin-bottom: -35px; margin-left: 10px;">
 
-### Backend Development
+<h1 style="margin-top: 0; margin-bottom: 8px;">
+  Luis Junior
+</h1>
 
-Information Systems Student
+<h3 style="margin: 0 0 8px 0; color: #58A6FF;">
+  Backend Development
+</h3>
 
-Currently learning **Java** and **MySQL**, and enjoying the backend side of software development.
+<p style="margin: 0 0 8px 0;">
+  Information Systems Student
+</p>
+
+<p style="margin: 0; color: #8B949E;">
+  Currently learning <strong>Java</strong> and <strong>MySQL</strong>,
+  and enjoying the backend side of software development.
+</p>
+
+</div>
 
 ## About Me
 
