@@ -1,27 +1,37 @@
-<svg width="1200" height="300" viewBox="0 0 1200 300" xmlns="http://www.w3.org/2000/svg">
-  <rect width="1200" height="300" rx="18" fill="#0D1117"></rect>
+<svg width="1200" height="320" viewBox="0 0 1200 320" xmlns="http://www.w3.org/2000/svg">
 
-  <circle cx="1060" cy="80" r="3" fill="#58A6FF"></circle>
-  <circle cx="1100" cy="125" r="2" fill="#58A6FF"></circle>
-  <circle cx="1030" cy="170" r="2" fill="#58A6FF"></circle>
+  <rect width="1200" height="320" rx="18" fill="#0D1117"></rect>
 
-  <rect x="70" y="70" width="5" height="155" rx="2.5" fill="#58A6FF"></rect>
+  <!-- Accent -->
+  <rect x="65" y="65" width="6" height="190" rx="3" fill="#58A6FF"></rect>
 
-  <text x="105" y="125" font-family="Arial, Helvetica, sans-serif" font-size="58" font-weight="700" fill="#F0F6FC">
+  <!-- Decorative details -->
+  <circle cx="1080" cy="85" r="3" fill="#58A6FF"></circle>
+  <circle cx="1120" cy="130" r="2" fill="#58A6FF"></circle>
+  <circle cx="1050" cy="170" r="2" fill="#58A6FF"></circle>
+  <circle cx="1100" cy="215" r="3" fill="#58A6FF"></circle>
+
+  <!-- Name -->
+  <text x="105" y="125" font-family="Arial, Helvetica, sans-serif" font-size="68" font-weight="700" fill="#F0F6FC">
     Luis Junior
   </text>
 
-  <text x="108" y="165" font-family="Arial, Helvetica, sans-serif" font-size="24" font-weight="600" fill="#58A6FF">
-    Information Systems Student
-  </text>
-
-  <text x="108" y="200" font-family="Arial, Helvetica, sans-serif" font-size="24" font-weight="600" fill="#58A6FF">
+  <!-- Main role -->
+  <text x="108" y="175" font-family="Arial, Helvetica, sans-serif" font-size="28" font-weight="600" fill="#58A6FF">
     Backend Development
   </text>
 
-  <text x="108" y="238" font-family="Arial, Helvetica, sans-serif" font-size="17" fill="#8B949E">
-    Learning Java &amp; MySQL • Building software to solve real problems
+  <!-- Student -->
+  <text x="108" y="215" font-family="Arial, Helvetica, sans-serif" font-size="22" fill="#C9D1D9">
+    Information Systems Student
   </text>
 
-  <line x1="105" y1="258" x2="1095" y2="258" stroke="#21262D" stroke-width="1"></line>
+  <!-- Description -->
+  <text x="108" y="260" font-family="Arial, Helvetica, sans-serif" font-size="18" fill="#8B949E">
+    Java • MySQL • Software • Real-world solutions
+  </text>
+
+  <!-- Bottom line -->
+  <line x1="105" y1="285" x2="1095" y2="285" stroke="#21262D" stroke-width="1"></line>
+
 </svg>
