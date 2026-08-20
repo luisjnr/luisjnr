@@ -1,8 +1,6 @@
-<div align="center">
-
 <table>
 <tr>
-<td align="left" width="70%">
+<td align="left" width="75%">
 
 # Luis Junior
 
@@ -12,12 +10,10 @@ Currently learning Java and MySQL, building software to solve real-world problem
 
 </td>
 
-<td align="center" width="30%">
+<td align="center" width="25%">
 
 <img src="./luffy.gif" width="140">
 
 </td>
 </tr>
 </table>
-
-</div>
