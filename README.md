@@ -4,12 +4,6 @@
 
 </div>
 
-<div align="center">
-
-<img src="./header.svg" width="100%">
-
-</div>
-
 ## About Me
 
 I'm currently focused on **Java** and **databases**, building the backend skills I want to turn into my career.
