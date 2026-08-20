@@ -33,8 +33,14 @@ Website and reservation system developed for a real hotel.
 # `</>` Beyond Code
 
 <p>
-  Outside of programming, I enjoy anime, games and exploring new ideas.
-  I'm a big fan of One Piece, and I enjoy everything from RPGs and story-driven games to competitive games.
+  I like turning ideas into something real. Whether it's a software project,
+  a new concept or a problem that needs solving, I'm always interested in
+  figuring out how to make it work.
+</p>
+
+<p>
+  I'm naturally curious, competitive and always looking for the next thing to learn.
+  I don't have everything figured out yet — and that's exactly what makes the journey interesting.
 </p>
 
 <p align="right">
