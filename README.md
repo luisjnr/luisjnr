@@ -34,9 +34,9 @@ Website and reservation system developed for a real hotel.
 
 I like challenges, I like learning, and I like seeing an idea turn into something real.
 
-I'm the kind of person who would rather figure out how something works than simply accept that it does. That's one of the things that keeps me interested in technology: there's always something new to understand, build and improve.
+I'm the kind of person who would rather figure out how something works than simply accept that it does. That's one of the things that keeps me interested in technology, there's always something new to understand, build and improve.
 
-My goal is to become a backend developer and eventually build products and businesses of my own — creating technology that makes things simpler, smarter and more efficient.
+My goal is to become a backend developer and eventually build products and businesses of my own, creating technology that makes things simpler, smarter and more efficient.
 
 <p align="right">
   <img src="./luffy.gif" width="120" alt="Luffy">
