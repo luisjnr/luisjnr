@@ -30,15 +30,13 @@ Website and reservation system developed for a real hotel.
 
 [View project](https://hotelbrilhante.com.br/)
 
-## `</>` Beyond Code
+# `</>` Beyond Code
 
 <p>
   Outside of programming, I enjoy anime, games and exploring new ideas.
+  I'm a big fan of One Piece, and I enjoy everything from RPGs and story-driven games to competitive games.
 </p>
 
 <p align="right">
   <img src="./luffy.gif" width="120" alt="Luffy">
 </p>
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=luisjnr&layout=compact&theme=dark&hide_border=true"/>
-
-</div>
