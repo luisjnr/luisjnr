@@ -1,8 +1,8 @@
 <img src="./luffy.gif" width="150" align="right">
 
-<p>
-  <strong><font size="300">Luis Junior</font></strong>
-</p>
+<h1>
+  <strong><font size="3">Luis Junior</font></strong>
+</h1>
 
 <p>
   <strong>Information Systems Student • Backend Development</strong>
