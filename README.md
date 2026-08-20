@@ -42,7 +42,7 @@ My goal is to become a backend developer and eventually build products and busin
   <img src="./luffy.gif" width="120" alt="Luffy">
 </p>
 
-## 📫 Let's Connect
+# Let's Connect
 
 I'm always open to new opportunities, collaborations, and interesting projects.
 
