@@ -10,6 +10,8 @@ What interests me most about software is its ability to solve real problems. I w
 I'm still exploring where technology can take me, but my long-term goal is to build products, lead projects, and eventually create my own technology and marketing company.
 </p>
 
+<br>
+
 # `</>` Technologies
 
 <p align="left">
@@ -20,6 +22,8 @@ I'm still exploring where technology can take me, but my long-term goal is to bu
 
 **Current focus:** Java • MySQL • Backend Development
 
+<br>
+
 # `</>` Projects
 
 ## Hotel Brilhante
@@ -29,6 +33,8 @@ Website and reservation system developed for a real hotel.
 **Technologies:** HTML • CSS • JavaScript
 
 [View project](https://hotelbrilhante.com.br/)
+
+<br>
 
 # `</>` What Drives Me
 
