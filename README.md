@@ -43,6 +43,7 @@ My goal is to become a backend developer and eventually build products and busin
 I'm always open to new opportunities, collaborations, and interesting projects.
 
 <p align="center"> <a href="mailto:luiscarlossantossilvajunior@gmail.com"> <img src="https://cdn.simpleicons.org/gmail/EA4335" width="40" height="40" alt="Email"/> </a> &nbsp;&nbsp;&nbsp; <a href="https://instagram.com/luis_juniorn"> <img src="https://cdn.simpleicons.org/instagram/E4405F" width="40" height="40" alt="Instagram"/> </a> &nbsp;&nbsp;&nbsp; <a href="https://wa.me/5538992577724"> <img src="https://cdn.simpleicons.org/whatsapp/25D366" width="40" height="40" alt="WhatsApp"/> </a> </p>
+<p align="center">
   <b>Brazil &nbsp; • &nbsp; Open to collaborations &nbsp; • &nbsp; Always building</b>
 </p>
 
