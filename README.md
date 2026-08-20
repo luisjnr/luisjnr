@@ -41,3 +41,24 @@ My goal is to become a backend developer and eventually build products and busin
 <p align="right">
   <img src="./luffy.gif" width="120" alt="Luffy">
 </p>
+
+## 📫 Let's Connect
+
+I'm always open to new opportunities, collaborations, and interesting projects.
+
+<p align="center">
+  <a href="mailto:luiscarlossantossilvajunior@gmail.com">
+    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
+  </a>
+  <a href="https://instagram.com/luis_juniorn">
+    <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" />
+  </a>
+  <a href="https://wa.me/5538992577724">
+    <img src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" />
+  </a>
+</p>
+
+<p align="center">
+  <b>📍 Brazil &nbsp; • &nbsp; 💻 Open to collaborations &nbsp; • &nbsp; 🚀 Always building</b>
+</p>
+
