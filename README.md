@@ -6,7 +6,7 @@
   <font color="#58A6FF">Information Systems Student • Backend Development</font>
 </h3>
 
-<p>
+<p style="color" blue>
   Currently learning Java and MySQL, building software to solve real-world problems.
 </p>
 
