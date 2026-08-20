@@ -2,7 +2,7 @@
 
 <br>
 
-# `</>` About Me
+## `</>` About Me
 
 <p>
   I'm an Information Systems student with a growing focus on backend development. I enjoy understanding how things work and turning ideas into practical software solutions.
@@ -14,7 +14,7 @@ I'm still exploring where technology can take me, but my long-term goal is to bu
 
 <br>
 
-# `</>` Technologies
+## `</>` Technologies
 
 <p align="left">
   <img src="https://skillicons.dev/icons?i=c,html,css" height="45" alt="C HTML CSS">
@@ -26,7 +26,7 @@ I'm still exploring where technology can take me, but my long-term goal is to bu
 
 <br>
 
-# `</>` Projects
+## `</>` Projects
 
 ## Hotel Brilhante
 
@@ -38,7 +38,7 @@ Website and reservation system developed for a real hotel.
 
 <br>
 
-# `</>` What Drives Me
+## `</>` What Drives Me
 
 I like challenges, I like learning, and I like seeing an idea turn into something real.
 
@@ -48,7 +48,7 @@ My goal is to become a backend developer and eventually build products and busin
 
 <br>
 
-# `</>`Let's Connect
+## `</>`Let's Connect
 
 <p align="center"> <a href="mailto:luiscarlossantossilvajunior@gmail.com"> <img src="https://cdn.simpleicons.org/gmail/EA4335" width="40" height="40" alt="Email"/> </a> &nbsp;&nbsp;&nbsp; <a href="https://instagram.com/luis_juniorn"> <img src="https://cdn.simpleicons.org/instagram/E4405F" width="40" height="40" alt="Instagram"/> </a> &nbsp;&nbsp;&nbsp; <a href="https://wa.me/5538992577724"> <img src="https://cdn.simpleicons.org/whatsapp/25D366" width="40" height="40" alt="WhatsApp"/> </a> </p>
 
