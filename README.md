@@ -30,9 +30,12 @@ Website and reservation system developed for a real hotel.
 
 [View project](https://hotelbrilhante.com.br/)
 
-# `</>` GitHub Stats
+## 📊 GitHub Stats
 
-<p align="left">
-  <img src="https://github-readme-stats.vercel.app/api?username=luisjnr&show_icons=true&theme=dark&hide_border=true&include_all_commits=true" height="165">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=luisjnr&layout=compact&theme=dark&hide_border=true" height="165">
-</p>
+<div align="left">
+
+<img height="180em" src="https://github-readme-stats.vercel.app/api?username=luisjnr&show_icons=true&theme=dark&hide_border=true&include_all_commits=true&count_private=true"/>
+
+<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=luisjnr&layout=compact&theme=dark&hide_border=true"/>
+
+</div>
