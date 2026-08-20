@@ -30,17 +30,3 @@ Outside of programming, I'm an outgoing person who enjoys games, anime and learn
 <p>
   <strong>Focus:</strong> Backend Development • Object-Oriented Programming • Databases
 </p>
-
-<h2>Beyond Code</h2>
-
-<p>
-  When I'm not coding, you'll probably find me playing games, watching anime or exploring something new.
-</p>
-
-<p>
-  I'm a big fan of One Piece, and Luffy is probably the character that best represents my mindset: ambitious, confident and always moving forward.
-</p>
-
-<p align="center">
-  <img src="./luffy.gif" width="120">
-</p>
