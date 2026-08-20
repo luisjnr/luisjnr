@@ -1,8 +1,14 @@
-<div align="center">
+<img src="./luffy.gif" width="150" align="right">
 
-<img src="./header.svg" width="100%">
+# Luis Junior
 
-</div>
+### Backend Development
+
+Information Systems Student
+
+Currently learning **Java** and **MySQL**, and enjoying the backend side of software development.
+
+<br clear="right">
 
 ## About Me
 
