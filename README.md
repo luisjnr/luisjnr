@@ -29,3 +29,10 @@ Website and reservation system developed for a real hotel.
 **Technologies:** HTML • CSS • JavaScript
 
 [View project](https://hotelbrilhante.com.br/)
+
+# `</>` GitHub Stats
+
+<p align="left">
+  <img src="https://github-readme-stats.vercel.app/api?username=luisjnr&show_icons=true&theme=dark&hide_border=true&include_all_commits=true" height="165">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=luisjnr&layout=compact&theme=dark&hide_border=true" height="165">
+</p>
