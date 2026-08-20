@@ -1,6 +1,6 @@
 <img src="./header.png" alt="Luis Junior - Backend Development" width="100%">
 
-# `</>` About Me
+# </> About Me
 
 <p>
   I'm an Information Systems student with a growing focus on backend development. I enjoy understanding how things work and turning ideas into practical software solutions.
