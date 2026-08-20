@@ -1,18 +1,14 @@
-<img src="./luffy.gif" width="150" align="right">
+<div align="center">
 
-<p>
-  <strong><big><big>Luis Junior</big></big></strong>
-</p>
+<img src="./header.svg" width="100%">
 
-<p>
-  <strong>Information Systems Student • Backend Development</strong>
-</p>
+</div>
 
-<p>
-  Currently learning Java and MySQL, building software to solve real-world problems.
-</p>
+<div align="center">
 
-<br clear="right">
+<img src="./header.svg" width="100%">
+
+</div>
 
 ## About Me
 
