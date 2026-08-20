@@ -1,4 +1,4 @@
-<img src="./header.png" alt="Luis Junior - Backend Development" width="90%">
+<img src="./header.png" alt="Luis Junior - Backend Development" width="100%">
 
 # About Me
 
