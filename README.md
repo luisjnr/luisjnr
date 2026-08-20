@@ -8,8 +8,6 @@ Information Systems Student
 
 Currently learning **Java** and **MySQL**, and enjoying the backend side of software development.
 
-<br clear="right">
-
 ## About Me
 
 I'm currently focused on **Java** and **databases**, building the backend skills I want to turn into my career.
