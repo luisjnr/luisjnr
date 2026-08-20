@@ -10,10 +10,10 @@ What interests me most about software is its ability to solve real problems. I w
 I'm still exploring where technology can take me, but my long-term goal is to build products, lead projects, and eventually create my own technology and marketing company.
 </p>
 
-## `</>` Atualmente aprendendo
+## `</>` Tecnologias
 
 <p align="left">
-  <img src="https://skillicons.dev/icons?i=java,mysql" />
+  <img src="https://skillicons.dev/icons?i=c,html,css,java,mysql" />
 </p>
 
-**Foco:** Desenvolvimento Backend • Programação Orientada a Objetos • Bancos de Dados
+**Foco atual:** Java • MySQL • Backend Development
