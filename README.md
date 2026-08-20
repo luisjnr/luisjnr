@@ -38,8 +38,6 @@ I'm the kind of person who would rather figure out how something works than simp
 
 My goal is to become a backend developer and eventually build products and businesses of my own, creating technology that makes things simpler, smarter and more efficient.
 
-<img src="./luffy.gif" width="120" alt="Luffy" align="right">
-
 # Let's Connect
 
 I'm always open to new opportunities, collaborations, and interesting projects.
@@ -59,4 +57,6 @@ I'm always open to new opportunities, collaborations, and interesting projects.
 <p align="center">
   <b>📍 Brazil &nbsp; • &nbsp; 💻 Open to collaborations &nbsp; • &nbsp; 🚀 Always building</b>
 </p>
+
+<img src="./luffy.gif" width="120" alt="Luffy" align="right">
 
