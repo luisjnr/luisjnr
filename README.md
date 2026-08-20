@@ -14,20 +14,12 @@
 
 <br clear="right">
 
-<h2>About Me</h2>
+## About Me
 
-<p>
-  I'm an Information Systems student focused on backend development. I'm currently learning Java and MySQL while building my foundation in C, HTML and CSS.
-</p>
+I'm currently focused on **Java** and **databases**, building the backend skills I want to turn into my career.
 
-<p>
-  What interests me most about software is its ability to solve real problems. I enjoy turning ideas into practical solutions that make work easier, improve processes and create value for businesses and people.
-</p>
+What motivates me is creating software that solves real problems. I enjoy understanding how businesses work and developing systems that make everyday processes simpler and more efficient.
 
-<p>
-  I'm still exploring different areas of technology, but backend development is where I'm focusing right now. I'm also interested in exploring cybersecurity in the future.
-</p>
+Right now, I'm diving deeper into Java and MySQL, and I'm really enjoying this direction. My goal is to become a backend developer capable of building reliable and useful applications.
 
-<p>
-  Beyond code, I'm an outgoing and curious person who enjoys games, anime and learning new things. My long-term goal is to build products, lead projects and eventually create my own technology and marketing business.
-</p>
+Outside of programming, I'm an outgoing person who enjoys games, anime and learning new things. My long-term ambition is to build products, lead projects and eventually create my own technology and marketing company.
