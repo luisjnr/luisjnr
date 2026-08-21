@@ -1,9 +1,8 @@
-<p>
-  <img src="./luffy.png" width="120" alt="Luffy" align="left">
+<p align="left">
+  <img src="./luffy.png" width="400">
 </p>
 
-# Luis Junior
-
+<h1 align="left">Luis Junior</h1>
 
 <img src="./header.png" alt="Luis Junior - Backend Development" width="100%">
 
