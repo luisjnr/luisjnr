@@ -1,5 +1,6 @@
-<img src="./luffy.png" width="120" alt="Luffy" align="left">
-
+<p>
+  <img src="./luffy.png" width="120" alt="Luffy" align="left">
+</p>
 # Luis Junior
 
 
