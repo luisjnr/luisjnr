@@ -1,18 +1,6 @@
-<p align="left">
-  <img src="./luffy.png" width="400">
-</p>
+<img src="./header.png" alt="Luis Junior - Backend Development" width="100%"> 
 
-<h1 align="left">Luis Junior</h1>
-
-<h3 align="left">Backend Development</h3>
-
-<p align="left">
-  Information Systems Student
-</p>
-
-<p align="left">
-  I enjoy backend software development and building solutions that solve <i>real-world</i> problems.
-</p>
+<br>
 
 ## `</>` About Me
 
