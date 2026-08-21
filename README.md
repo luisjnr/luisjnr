@@ -4,10 +4,6 @@
 
 <h1 align="left">Luis Junior</h1>
 
-<img src="./header.png" alt="Luis Junior - Backend Development" width="100%">
-
-<br>
-
 ## `</>` About Me
 
 <p>
