@@ -4,6 +4,16 @@
 
 <h1 align="left">Luis Junior</h1>
 
+<h3 align="left">Backend Development</h3>
+
+<p align="left">
+  Information Systems Student
+</p>
+
+<p align="left">
+  I enjoy backend software development and building solutions that solve <i>real-world</i> problems.
+</p>
+
 ## `</>` About Me
 
 <p>
