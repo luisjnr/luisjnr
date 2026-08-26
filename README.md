@@ -55,6 +55,3 @@ My goal is to become a backend developer and eventually build products and busin
 <p align="center">
   <b>Brazil &nbsp; • &nbsp; Open to collaborations &nbsp; • &nbsp; Always building</b>
 </p>
-
-<img src="./luffy.gif" width="120" alt="Luffy" align="right">
-
