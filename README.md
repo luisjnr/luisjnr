@@ -1,61 +1,22 @@
-# Hi, I'm Luis Junior
-Backend Developer
-Information Systems Student
+<h1 align="center">Olá 👋, sou Luis Junior</h1>
+<h3 align="center">Um desenvolvedor frontend apaixonado do Brasil</h3>
 
-I'm interested in backend development and building solutions that solve real-world problems.
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=luisjrn&label=Profile%20views&color=0e75b6&style=flat" alt="luisjrn" /> </p>
 
-<br>
+<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=luisjrn" alt="luisjrn" /></a> </p>
 
-## `</>` About Me
+<p align="left"> <a href="https://twitter.com/" target="blank"><img src="https://img.shields.io/twitter/follow/?logo=twitter&style=for-the-badge"alt="" /></a> </p>
 
-<p>
-  I'm an Information Systems student with a growing focus on backend development. I enjoy understanding how things work and turning ideas into practical software solutions.
-
-What interests me most about software is its ability to solve real problems. I want to build systems that make processes easier, improve the way businesses work, and create useful solutions for people.
-
-I'm still exploring where technology can take me, but my long-term goal is to build products, lead projects, and eventually create my own technology and marketing company.
-</p>
-
-<br>
-
-## `</>` Technologies
-
+<h3 align="left">Conecte-se comigo:</h3>
 <p align="left">
-  <img src="https://skillicons.dev/icons?i=c,html,css" height="45" alt="C HTML CSS">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/java/java-original.svg" height="45" alt="Java">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/mysql/mysql-original.svg" height="45" alt="MySQL">
-</p>
+<a href="https://instagram.com/luis_juniorn" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="luis_juniorn" height="30" width="40" /></a><
+/p>
 
-**Current focus:** Java • MySQL • Backend Development
+<h3 align="left">Idiomas e ferramentas:</h3>
+<p align="esquerda"> <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" largura="40" altura="40"/> </um> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" largura="40" altura="40"/> </um> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </um> <a href="https://www.java.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" largura="40" altura="40"/> </um> <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" largura="40" altura="40"/> </um></p>
 
-<br>
+<p><img align="esquerda" src="https://github-readme-stats.vercel.app/api/top-langs?username=luisjrn&show_icons=true&locale=en&layout=compact" alt="luisjrn" /></p>
 
-## `</>` Projects
+<p> <img align="centro" src="https://github-readme-stats.vercel.app/api?username=luisjrn&show_icons=true&locale=en" alt="luisjrn" /></p>
 
-## Hotel Brilhante
-
-Website and reservation system developed for a real hotel.
-
-**Technologies:** HTML • CSS • JavaScript
-
-[View project](https://hotelbrilhante.com.br/)
-
-<br>
-
-## `</>` What Drives Me
-
-I like challenges, I like learning, and I like seeing an idea turn into something real.
-
-I'm the kind of person who would rather figure out how something works than simply accept that it does. That's one of the things that keeps me interested in technology, there's always something new to understand, build and improve.
-
-My goal is to become a backend developer and eventually build products and businesses of my own, creating technology that makes things simpler, smarter and more efficient.
-
-<br>
-
-## `</>`Let's Connect
-
-<p align="center"> <a href="mailto:luiscarlossantossilvajunior@gmail.com"> <img src="https://cdn.simpleicons.org/gmail/EA4335" width="40" height="40" alt="Email"/> </a> &nbsp;&nbsp;&nbsp; <a href="https://instagram.com/luis_juniorn"> <img src="https://cdn.simpleicons.org/instagram/E4405F" width="40" height="40" alt="Instagram"/> </a> &nbsp;&nbsp;&nbsp; <a href="https://wa.me/5538992577724"> <img src="https://cdn.simpleicons.org/whatsapp/25D366" width="40" height="40" alt="WhatsApp"/> </a> </p>
-
-<p align="center">
-  <b>Brazil &nbsp; • &nbsp; Open to collaborations &nbsp; • &nbsp; Always building</b>
-</p>
+<p><img align="centro" src="https://github-readme-streak-stats.herokuapp.com/?user=luisjrn&" alt="luisjrn" /></p>
