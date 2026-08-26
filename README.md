@@ -1,4 +1,8 @@
-<img src="./header.png" alt="Luis Junior - Backend Development" width="100%"> 
+Hi, I'm Luis Junior
+Backend Developer
+Information Systems Student
+
+I'm interested in backend development and building solutions that solve real-world problems.
 
 <br>
 
