@@ -6,13 +6,13 @@
   <img src="https://skillicons.dev/icons?i=java,c,cpp,godot,mysql,vscode,git,github,docker,linux" alt="My Skills" />
 </div>
 
-### 📬 Contact Me
+### 📫 Let's Connect
 
-Feel free to reach out to me!
+[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](https://mail.google.com/mail/?view=cm&fs=1&to=luiscarlossantossilvajunior@gmail.com)
+[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?style=for-the-badge&logo=Instagram&logoColor=white)](https://instagram.com/luis_juniorn)
 
-* 📧 **Email:** [Send me an email!](https://mail.google.com/mail/?view=cm&fs=1&to=luiscarlossantossilvajunior@gmail.com)
-* 📸 **Instagram:** [@luis_juniorn](https://instagram.com/luis_juniorn)
-* 👾 **Discord:** Copy my username 👉 `luis_jrr`
+*(Discord: Add me as **`luis_jrr`**)*
+![Discord](https://img.shields.io/badge/Discord-luis__jrr-5865F2?style=for-the-badge&logo=discord&logoColor=white)
 
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/luisjnr/luisjnr/output/snake-dark.svg">
