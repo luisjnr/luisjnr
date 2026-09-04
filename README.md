@@ -3,7 +3,10 @@
 ### 🛠️ Tools I Use
 
 <div align="left">
-  <img src="https://skillicons.dev/icons?i=java,c,cpp,godot,mysql,vscode,git,github,docker,linux" alt="My Skills" />
+<img
+  src="https://skillicons.dev/icons?i=java,c,cpp,godot,mysql,vscode,git,github,docker,linux"
+  alt="Minhas tecnologias"
+/>
 </div>
 
 ### 📫 Let's Connect
