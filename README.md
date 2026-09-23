@@ -2,7 +2,7 @@
 
 ### 🛠️ Tools I Use
 
-<img src="https://skillicons.dev/icons?i=java,c,cpp,html,css,godot,mysql,vscode,git,github,docker,linux" alt="My Skills" />
+<img src="https://skillicons.dev/icons?i=java,c,html,css,mysql,vscode,git,github,docker,linux" alt="My Skills" />
 
 ### 📫 Let's Connect
 
